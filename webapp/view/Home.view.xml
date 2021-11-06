@@ -1,4 +1,4 @@
-<mvc:View controllerName="opensap.movies.controller.App" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core"
+<mvc:View controllerName="opensap.movies.controller.Home" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core"
 	xmlns:f="sap.ui.layout.form" xmlns:unified="sap.ui.unified">
 	<Page title="{i18n>title}">
 		<landmarkInfo>
